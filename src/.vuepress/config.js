@@ -80,6 +80,13 @@ const
             label: "Robotics Roadmap",
             title: 'Роадмап робототехники',
             description: ''
+        },
+        '/tr/':
+        {
+            lang: 'tr-TR',
+            label: "Robotics Roadmap",
+            title: 'Robotik Yol Haritası',
+            description: 'Robotik alanında yola koyulman için bir yol haritası'
         }
     },
 
@@ -241,6 +248,25 @@ const
                 nav: [
                     {
                         text: 'Как использовать',
+                        link: '/guide/',
+                    },
+                    {
+                        text: 'GitHub',
+                        link: 'https://github.com/Sarrasor/RoboticsRoadmap',
+                    },
+                ],
+            },
+            '/tr/':
+            {
+                label: "Türkçe",
+                repo: '',
+                editLinks: false,
+                docsDir: 'roadmap',
+                editLinkText: '',
+                lastUpdated: true,
+                nav: [
+                    {
+                        text: 'Kullanım Kılavuzu',
                         link: '/guide/',
                     },
                     {
