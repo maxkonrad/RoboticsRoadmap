@@ -9,6 +9,6 @@ actionLink: /guide/
 footer: Made by Daniil Burakov with ❤️ | CC BY-SA 4.0 Licensed | Proudly translated into Turkish by Furkan Selek
 ---
 
-Aşağıdaki harita etkileşimli bir harita. Sürükleyip yakınlaştırabilirsiniz. Dalların detaylı sayfasına üzerine tıklayarak ulaşabilirsiniz.
+Aşağıdaki harita etkileşimli bir harita. Haritayı sürükleyebilir ve yakınlaştırabilirsiniz. Dalların detaylı sayfasına üzerine tıklayarak ulaşabilirsiniz.
 
 <Roadmap/>
