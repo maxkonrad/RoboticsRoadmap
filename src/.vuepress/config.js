@@ -258,7 +258,7 @@ const
             },
             '/tr/':
             {
-                label: "Türkçe",
+                label: "Turkish",
                 repo: '',
                 editLinks: false,
                 docsDir: 'roadmap',
